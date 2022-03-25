@@ -4,4 +4,4 @@
  文件说明：
  * 人脸检测代码源文件：face_detect.py
  * 采用haar检测器文件：haarcascade_frontalface_default.xml
- * 记录：基于Haar特征的人脸检测.md
+ * 笔记：基于Haar特征的人脸检测.md
