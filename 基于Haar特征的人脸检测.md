@@ -41,7 +41,7 @@
 
 ## cv.CascadeClassifier()
 
-CascadeClassifier是opencv下object模块中用来做目标检测的级联分类器的一个类（class)。用于创建目标检测器对象。
+CascadeClassifier是opencv下object模块中用来做目标检测的级联分类器的一个类（class)。用于创建目标检测器对象。早期opencv版本仅支持haar特征的目标检测，分别在opencv2.2和2.4之后开始支持LBP和HOG特征的目标检测。
 
 
 
